@@ -12,3 +12,8 @@ router.use('/api', apiRoutes);
 // })
 module.exports = router;
 // https://api.yelp.com/v3/businesses/search?location=NYC&categories=bars&open_now=true
+
+// const url = 'GET https://api.yelp.com/v3/businesses/search/location'
+// fetch(url, { })
+
+
