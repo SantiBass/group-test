@@ -14,6 +14,7 @@ const barbersDiv = document.querySelector('.barbers');
         body: JSON.stringify({userLocation})
     }).then(response => response.json())
     .then(data => {
+        console.log(data);
         const { businesses } = data;
         barbersDiv.textContent = '';
         for (let i = 0; i < businesses.length; i++) {

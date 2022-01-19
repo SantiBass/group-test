@@ -8,6 +8,7 @@
     "express-handlebars": "^6.0.2",
     "express-middleware": "^3.4.2",
     "express-session": "^1.17.2",
+    "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
     "node-fetch": "^2.6.7",
     "nodemon": "^2.0.15",
@@ -39,5 +40,5 @@
     "url": "https://github.com/SantiBass/the-fire-pit-can-be-seen-using-this-tech-blog/issues"
   },
   "homepage": "https://github.com/SantiBass/the-fire-pit-can-be-seen-using-this-tech-blog#readme",
-  "description": ""
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
 }
