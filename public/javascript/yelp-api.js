@@ -2,16 +2,19 @@
 //     const yelpUrl = ' '
 // }
 
+const getElement = document.querySelector("#findbarber").value
 
+// const yelp = require('yelp-fusion');
+// const client = yelp.client('yel API here');
 
-const yelp = require('yelp-fusion');
-const client = yelp.client('dg33AX7OqbRm6sz4FhU7tcnUK3HC0dABtSR1jQv_W9behEGQYwc0nEO4dVq-HKu9aq2fgOmsmq-9f3AvCNU09iON2eSi4VXuNIUWZYJUu5Fi6oire2xMTCd6-pPkYXYx');
+// client.search({
+//   term: 'Four Barrel Coffee',
+//   location: 'san francisco, ca',
+// }).then(response => {
+//   console.log(response.jsonBody);
+// }).catch(e => {
+//   console.log(location);
+// });
+// console.log(client)
 
-client.search({
-  term: 'Four Barrel Coffee',
-  location: 'san francisco, ca',
-}).then(response => {
-  console.log(response.jsonBody);
-}).catch(e => {
-  console.log(e);
-});
+// console.log(getElement)

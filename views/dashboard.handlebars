@@ -1,15 +1,14 @@
-{{!-- showing post titles screen --}}
-{{#if posts.length}}
+
 <section>
-  <h2 class="yourpost">Your search</h2>
-    {{#each posts as |post|}}
-      {{> dashboard-postinfo post}}
-    {{/each}}
+  {{> new-post }}
+
+  {{!-- <ul class="business-list"> --}}
+    {{!-- {{#each businesses}} --}}
+    {{!-- <h2>asdasd</h2> --}}
+      {{!-- <li>{{this.name}}</li> --}}
+    {{!-- {{/each}} --}}
+  {{!-- </ul> --}}
+  {{ businesses }}
 
 </section>
-{{/if}}
-
-<button type="submit" class="btn"><a class="link" href="/dashboard/new"> Find a Barber</a></button>
-
-<script src="/javascript/add-post.js"></script>
 

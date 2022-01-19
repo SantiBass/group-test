@@ -22,7 +22,7 @@ async function signupFormHandler(event) {
         document.location.replace('/dashboard');
       } else {
         alert(response.statusText);
-        console.console.log("It did't work!");
+        console.console.log("It did't work signup js!");
       }
     }
   }

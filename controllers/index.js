@@ -16,4 +16,3 @@ module.exports = router;
 // const url = 'GET https://api.yelp.com/v3/businesses/search/location'
 // fetch(url, { })
 
-

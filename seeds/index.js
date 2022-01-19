@@ -1,5 +1,5 @@
 const seedUsers = require('./user-seed');
-const seedPosts = require('./post-seed');
+const seedPosts = require('./search-seed');
 const seedComments = require('./comment-seed');
 
 
@@ -18,7 +18,6 @@ const seedAll = async () => {
   console.log('-------------- seedComments');
 
   
-
   process.exit(0);
 };
 

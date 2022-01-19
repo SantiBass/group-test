@@ -6,18 +6,20 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
-    "express-middleware": "^1.1.0",
+    "express-middleware": "^3.4.2",
     "express-session": "^1.17.2",
     "mysql2": "^2.3.3",
     "node-fetch": "^2.6.7",
     "nodemon": "^2.0.15",
+    "query": "^0.2.0",
+    "require": "^0.4.4",
     "seed": "^0.4.4",
     "seeds": "^2.3.1",
     "sequelize": "^6.13.0",
     "yelp-fusion": "^3.0.0"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "seeds": "node seeds/index.js"
   },
   "name": "tech-blog",
