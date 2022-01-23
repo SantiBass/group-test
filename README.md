@@ -28,7 +28,7 @@
 
   ## Usage
 
-  click this link !
+  ### https://barbers-chair.herokuapp.com/
 
   ## Installation 
 
