@@ -41,6 +41,7 @@ const barbersDiv = document.querySelector('.barbers');
             barbersDiv.appendChild(bisName);
             barbersDiv.appendChild(bisNumber);
             barbersDiv.appendChild(bisPrice);
+            barbersDiv.appendChild(bisRating);
         }
 
 
