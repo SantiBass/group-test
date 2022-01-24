@@ -44,4 +44,4 @@
 
   ## Questions?
 
-  ### Email the programmer: gme.santi24@yahoo.com sibarraryan@gmail.com
+  ### Email the programmer: gme.santi24@yahoo.com sibarraryan@gmail.com seth20smith@gmail.com
