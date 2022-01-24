@@ -39,7 +39,7 @@
   ## Contributors
 
   ### People: Santiago Ibarra, Seth Smith, Santiago Venegas, TA's, and Google
-  ### GitHub Username: SantiBass, santiagov916, 
+  ### GitHub Username: SantiBass, santiagov916, seth20smith
   ### GitHub Link to project: https://github.com/SantiBass/group-test
 
   ## Questions?
